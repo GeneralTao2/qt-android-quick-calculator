@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CalcButton.qml</file>
+        <file>Keyboard.qml</file>
+        <file>Menu.qml</file>
+        <file>MenuButton.qml</file>
+        <file>img/Brick.png</file>
+        <file>img/CobbleStone.png</file>
+        <file>img/leaves.png</file>
+        <file>img/Log2.png</file>
+        <file>img/logs_light.png</file>
+        <file>TextButton.qml</file>
+        <file>ImageButton.qml</file>
+        <file>img/logs_top.png</file>
+        <file>other/PixelMiners-KKal.otf</file>
+        <file>ListDelegate.qml</file>
+        <file>js/Expression.mjs</file>
+        <file>Expression.qml</file>
+        <file>ExpressionDelegate.qml</file>
+        <file>img/woods.png</file>
+        <file>img/woods.ico</file>
+        <file>dev/star.ico</file>
+    </qresource>
+</RCC>
